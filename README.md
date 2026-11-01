@@ -6,8 +6,7 @@ part of the [freeCodeCamp Back-End Development and APIs Certification (Version 9
 ## Credits
 
 This project was completed as part of the 
-[freeCodeCamp Back-End Development and APIs Certification (Version 9)]
-(https://www.freecodecamp.org/learn/back-end-development-and-apis-v9/) by
+[freeCodeCamp Back-End Development and APIs Certification (Version 9)](https://www.freecodecamp.org/learn/back-end-development-and-apis-v9/) by
 [freeCodeCamp](https://www.freecodecamp.org/).
 
 
