@@ -1,0 +1,16 @@
+{
+  "name": "prime_number_checker",
+  "version": "1.0.0",
+  "description": "Module to check whether a number is prime.",
+  "keywords": [
+    "prime",
+    "number"
+  ],
+  "license": "ISC",
+  "author": "agnsal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
