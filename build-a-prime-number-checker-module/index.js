@@ -1,4 +1,4 @@
-// const isPrime = n => {  // Not recognised by FreeCodeCamp's tests
+// const isPrime = n => {  // Arrow-function implementation: freeCodeCamp's tests did not recognise it.
 //     if(!Number.isInteger(n) || n < 2) return false;
 //     const limit = Math.sqrt(n);
 //     for(let i=2; i<=limit; i++){
